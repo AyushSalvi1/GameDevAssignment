@@ -1,0 +1,16 @@
+{
+    "name": "SlotGame.UI",
+    "rootNamespace": "SlotGame.UI",
+    "references": [
+        "GUID:3e3ea01b4f5640c4ba36e71f19d9dfde"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

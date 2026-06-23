@@ -1,0 +1,17 @@
+{
+    "name": "SlotGame.Managers",
+    "rootNamespace": "SlotGame",
+    "references": [
+        "GUID:3e3ea01b4f5640c4ba36e71f19d9dfde",
+        "GUID:8fb5a45a06f20e74f89c60ac7e4a8bf5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
